@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Insta Cleaner Pro",
+  "version": "2.0",
+  "permissions": ["scripting", "activeTab", "storage", "cookies"],
+  "host_permissions": [
+    "https://www.instagram.com/*",
+    "https://i.instagram.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://www.instagram.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
