@@ -1,6 +1,11 @@
 # Insta Cleaner Pro 🧹✨
 
 Because manually unsaving 500 reels is character development you did **not** ask for 😵‍💫.
+## Sarcasm Cat GIF 🐈
+
+When the script says "✅ Unsaved" but Instagram says "lol no":
+
+![sarcastic cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2N0N2Q0Y2x5N2s4b2VqaWpwY3I0YTN5djB5eHdpeW5mM3Y2MzQ2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GeimqsH0TLDt4tScGw/giphy.gif)
 
 When you’re too lazy to do it yourself and free options are basically nonexistent, this extension is your emotional support automation 🤝.
 
@@ -49,11 +54,7 @@ Built with AI-assisted coding energy, caffeine, and questionable life choices �
 - Human still had to suffer through Instagram UI changes.
 - Teamwork: AI types fast, human cries in DevTools.
 
-## Sarcasm Cat GIF 🐈
 
-When the script says "✅ Unsaved" but Instagram says "lol no":
-
-![sarcastic cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2N0N2Q0Y2x5N2s4b2VqaWpwY3I0YTN5djB5eHdpeW5mM3Y2MzQ2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GeimqsH0TLDt4tScGw/giphy.gif)
 
 ## Disclaimer ⚠️
 
